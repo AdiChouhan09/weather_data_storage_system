@@ -62,3 +62,18 @@ and time/space complexity analysis.
 **Space Complexity:**  
 - **Dense 2D Array:** O(n × m) (memory allocated for all entries, even empty ones).  
 - **Sparse Matrix:** O(k), where *k* is the number of valid records only.  
+
+---
+
+## **Screenshot**  
+Below is the sample output of the program execution:  
+
+<img width="1188" height="240" alt="Screenshot 2025-10-01 201111" src="https://github.com/user-attachments/assets/9ae1dc29-e099-420f-bec8-1d954c8f5cda" />
+  
+---
+
+## **Author**  
+- **Name:** Aditya Chouhan  
+- **Roll No:** 2401830001  
+- **Course:** B.Sc. (H) Cybersecurity  
+
